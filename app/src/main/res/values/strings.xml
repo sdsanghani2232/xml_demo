@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="log">Login</string>
+    <string name="pass">Password</string>
+    <string name="sub">Submit</string>
+    <string name="Us_na">User Name</string>
+    <string name="For">Forgot Password ?</string>
+    <string name="Cr_Ac">Create Account</string>
+    <string name="Need">Need Help?</string>
+    <string name="tic">Tic Tac Toe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+
+</resources>
